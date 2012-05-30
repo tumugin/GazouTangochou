@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="encode_list">
+        <item >UTF-8</item>
+        <item >SHIFT-JIS</item>
+    </string-array>
+    <string-array name="encode_list_value">
+        <item >UTF8</item>
+        <item >SJIS</item>
+    </string-array>
+
+    
+</resources>

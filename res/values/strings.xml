@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">画像単語帳</string>
+    <string name="renshu">練習</string>
+    <string name="seikairitu">正解</string>
+    <string name="fuseikai">不正解</string>
+    <string name="what_seikairitu">あなたの正解率は....</string>
+    <string name="setting">設定</string>
+    <string name="image_size">画像サイズの設定</string>
+    <string name="image_size_setting">画像サイズの設定</string>
+    <string name="image_size_summary">ダウンロードする画像サイズを指定してください</string>
+    <string name="encode">文字コード</string>
+    <string name="encode_summary">ファイルの読み込み・書き込みに使う文字コードを指定してください</string>
+    <string name="face_only_summary">画像検索をする際に顔画像のみに絞り込みます</string>
+    <string name="face_only">顔画像のみ</string>
+    <string name="file_setting">ファイル関連</string>
+    <string name="gazou_search">画像検索関連</string>
+    <string name="henshu">編集</string>
+    <string name="other">その他</string>
+    <string name="preset_install">プリセットデーターのインストール</string>
+    <string name="preset_data_install_summary">プリセットデーターのインストールをします</string>
+    <string name="tango_dl">単語帳のダウンロード</string>
+    <string name="white_ccode">#FFFFFF</string>
+    <string name="view_setting">表示設定</string>
+    <string name="toast_time">マルバツの表示時間</string>
+    <string name="toast_summary">マルバツと正解の表示時間を変更します</string>
+    <string name="time_sentaku">表示時間を選択して下さい</string>
+
+</resources>

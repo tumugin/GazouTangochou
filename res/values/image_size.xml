@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_size">
+        <item >特大</item>
+        <item >大</item>
+        <item >中</item>
+        <item >小</item>
+    </string-array>
+    <string-array name="image_size_value">
+        <item >huge</item>
+        <item >xxlarge</item>
+        <item >small|medium|large|xlarge</item>
+        <item >icon</item>
+    </string-array>
+
+    
+</resources>

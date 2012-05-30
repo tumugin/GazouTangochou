@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/setting">
+    <PreferenceCategory android:title="@string/file_setting"><ListPreference android:summary="@string/encode_summary" android:entryValues="@array/encode_list_value" android:dialogTitle="@string/encode" android:title="@string/encode" android:entries="@array/encode_list" android:key="encode" android:defaultValue="SJIS"/>
+    
+</PreferenceCategory><PreferenceCategory android:title="@string/gazou_search"><ListPreference android:dialogTitle="@string/image_size" android:title="@string/image_size_setting" android:summary="@string/image_size_summary" android:entryValues="@array/image_size_value" android:entries="@array/image_size" android:key="image_size" android:defaultValue="small|medium|large|xlarge"/><CheckBoxPreference android:key="face_only" android:summary="@string/face_only_summary" android:title="@string/face_only" android:defaultValue="true"/></PreferenceCategory><PreferenceCategory android:title="@string/view_setting">
+    <ListPreference android:summary="@string/toast_summary" android:title="@string/toast_time" android:dialogTitle="@string/time_sentaku" android:entries="@array/time_list" android:entryValues="@array/time_list_value" android:defaultValue="short" android:key="toast_time"/>
+</PreferenceCategory>
+<PreferenceCategory android:title="@string/other">
+    <Preference android:title="@string/preset_install" android:summary="@string/preset_data_install_summary" android:key="preset_install"/>
+</PreferenceCategory>
+
+    
+    
+    
+
+    
+
+</PreferenceScreen>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time_list">
+        <item >短め</item>
+        <item >長め</item>
+    </string-array>
+    <string-array name="time_list_value">
+        <item >short</item>
+        <item >long</item>
+    </string-array>
+
+    
+</resources>
